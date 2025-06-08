@@ -7,10 +7,13 @@
 ### Chapter Lists:
 1.	Emerging Technology in ICT
 2.	Hardware
-3.	Software
-4.	Information System & Methodology
-5.	Database and Data Analytics
-6.	Network and Communications
-7.	Privacy, Security, and Ethics
-8.	Cloud Computing
+    Assignments:
+  	i. Jigsaw Activity-Group3
+  	ii.Jigsaw Summary
+4.	Software
+5.	Information System & Methodology
+6.	Database and Data Analytics
+7.	Network and Communications
+8.	Privacy, Security, and Ethics
+9.	Cloud Computing
 
