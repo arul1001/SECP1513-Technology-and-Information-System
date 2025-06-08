@@ -7,9 +7,9 @@
 ### Chapter Lists:
 1.	Emerging Technology in ICT   
 2.	Hardware </br>
-    Assignments: </br>
-  	- Jigsaw Activity </br>
-    - Jigsaw Summary </br>
+    Assignments: 
+    * [Jigsaw Activity] ()
+    * Jigsaw Summary
 3.	Software </br>
     Assignment: </br>
     * Open Ended Questions </br>
