@@ -44,9 +44,9 @@
 # 
 
 ### Design Thinking Project:
-1. Empathize Phase
-2. Define Phase
-3. Ideate Phase
-4. Prototype Phase
-5. Testing Phase
+1. <b>Empathize Phase</b>
+2. <b>Define Phase</b>
+3. <b>Ideate Phase</b>
+4. <b>Prototype Phase</b>
+5. <b>Testing Phase</b>
    
