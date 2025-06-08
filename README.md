@@ -4,31 +4,36 @@
 
 <p align="justify">This course serves as an introduction to Information Systems and Technology (IS/IT), focusing on their practical uses in both home and professional settings. It covers a range of topics, including hardware, software, networking, and communications. We will develop our practical skills in PC installation and using productivity software through hands-on lab activities. The course also features industry visit and guest lecture, which will offering us the chance to engage with professionals and gain insights into the workplace. Additionally, through this course we will explore IT career options and the specific skills required for various roles in the industry.</p>
 
+:point
 # 
 
 ### Chapter Lists:
-1.	Emerging Technology in ICT   
-2.	Hardware </br>
-    Assignments: </br>
-    i. [Jigsaw Activity](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Activity_Group3_System_Unit_and_Its_Componnets.pdf) </br>
-    ii. [Jigsaw Summary](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Group%20Summary.pdf
-)
-3.	Software </br>
+1.	<b>Emerging Technology in ICT </b>   
+2.	<b>Hardware </b></br>
     Assignment: </br>
-    [Open Ended Questions](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/f262a1006fa9d23a1e6b03b04a8d7969827ca378/Chapter3_Software-Open-Ended_Questions.pdf) </br>
-6.	Information System & Methodology
-7.	Database and Data Analytics
-8.	Network and Communications
-9.	Privacy, Security, and Ethics
-10.	Cloud Computing
+    👉 [Jigsaw Activity](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Activity_Group3_System_Unit_and_Its_Componnets.pdf) </br>
+    👉 [Jigsaw Summary](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Group%20Summary.pdf
+)
+3.	<b>Software </b></br>
+    Assignment: </br>
+    👉 [Open Ended Questions](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/f262a1006fa9d23a1e6b03b04a8d7969827ca378/Chapter3_Software-Open-Ended_Questions.pdf) </br>
+6.	<b> Information System & Methodology </b>
+7.	<b> Database and Data Analytics </b>
+8.	<b> Network and Communications </b>
+9.	<b> Privacy, Security, and Ethics </b>
+10.	<b> Cloud Computing </b>
 
 # 
 
 ### Industry Talk:
-1. Industry Talk 1 :
-2. Industry Talk 2 :
-3. Industry Talk 3 :
-4. Industry Talk 4 :
+1. <b>Industry Talk 1 : Navigating the ICT Job Market-Trends, Opportunities, and Skills for Success </b> </br>
+   Assignment: 
+3. <b>Industry Talk 2 : University vs Industry : What Skills Really Matter? </b> </br>
+   Assignment:
+5. <b> Industry Talk 3 : Surviving the IT Burnout-Startegies for Work-Life Balance in Tech </b> </br>
+   Assignment:
+7. <b> Industry Talk 4 : Generative AI in ICT-Transforming the Future of Innovation </b> </br>
+   Assignment:
 
 # 
 
