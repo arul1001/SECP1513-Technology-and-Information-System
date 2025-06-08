@@ -27,11 +27,17 @@
 
 ### Industry Talk:
 1. <b>Industry Talk 1 : Navigating the ICT Job Market-Trends, Opportunities, and Skills for Success </b> </br>
-   Assignment: 
+   Assignment: </br>
+   👉 [Poster Industry Talk 1](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/389927d5028822f09f8d0d9664099ae100bade86/Group3_SECP1513_Industry_Talk1.pdf
+)
 3. <b>Industry Talk 2 : University vs Industry : What Skills Really Matter? </b> </br>
-   Assignment:
+   Assignment: </br>
+   👉 [Poster - Industry Talk 2 - Presenter](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/389927d5028822f09f8d0d9664099ae100bade86/Group3_Industry_Talk2_Presenter.pdf
+) 
 5. <b> Industry Talk 3 : Surviving the IT Burnout-Startegies for Work-Life Balance in Tech </b> </br>
-   Assignment:
+   Assignment: </br>
+   👉 [Poster Industry Talk 3](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/389927d5028822f09f8d0d9664099ae100bade86/Group3_SECP1513_Industry_Talk3.pdf
+)
 7. <b> Industry Talk 4 : Generative AI in ICT-Transforming the Future of Innovation </b> </br>
    Assignment:
 
