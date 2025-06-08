@@ -9,13 +9,13 @@
 ### Chapter Lists:
 1.	Emerging Technology in ICT   
 2.	Hardware </br>
-    Assignments: 
-    * [Jigsaw Activity](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Activity_Group3_System_Unit_and_Its_Componnets.pdf)
-    * [Jigsaw Summary](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Group%20Summary.pdf
+    Assignments: </br>
+    i. [Jigsaw Activity](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Activity_Group3_System_Unit_and_Its_Componnets.pdf) </br>
+    ii. [Jigsaw Summary](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/cb79981214131086eea4f561b754d96cdc529314/Jigsaw_Group%20Summary.pdf
 )
 3.	Software </br>
     Assignment: </br>
-    * [Open Ended Questions](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/f262a1006fa9d23a1e6b03b04a8d7969827ca378/Chapter3_Software-Open-Ended_Questions.pdf) </br>
+    [Open Ended Questions](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/f262a1006fa9d23a1e6b03b04a8d7969827ca378/Chapter3_Software-Open-Ended_Questions.pdf) </br>
 6.	Information System & Methodology
 7.	Database and Data Analytics
 8.	Network and Communications
