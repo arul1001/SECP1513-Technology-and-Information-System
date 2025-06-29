@@ -46,9 +46,32 @@
 # 
 
 ### Design Thinking Project:
-1. <b>Empathize Phase</b>
-2. <b>Define Phase</b>
-3. <b>Ideate Phase</b>
-4. <b>Prototype Phase</b>
-5. <b>Testing Phase</b>
+ 
+<p align="justify"> This project applies the Design Thinking methodology, a human centered and solution focused approach to solving real world challenges. Under the theme “Big Data and Artificial Intelligence New Innovation,” our team explored the growing difficulties individuals face in managing personal finances amid rising inflation and increasing cost of living. The result is FinAI, a mobile application designed to help users track expenses, manage budgets, set savings goals, and receive bill alerts using AI powered insights. The project focuses on practical, secure, and user friendly financial management supported by intelligent data. </p>
+                  
+
+Below is a brief overview of our project journey through each phase of the Design Thinking process, along with visuals of our work at each stage.
+
+
+1. <b>Empathize Phase</b> </br>
+We conducted surveys and interviews to understand user pain points in personal finance management.
+
+
+2. <b>Define Phase</b> </br>
+We identified key problems such as lack of budgeting habits and finance saving goals.
+
+3. <b>Ideate Phase</b> </br>
+We brainstormed and evaluated ideas, then selected the most practical and impactful solution.
+
+4. <b>Prototype Phase</b> </br>
+We developed a low-fidelty prototype of the mobile application, focusing on core features like budgeting and expense tracking.
+
+
+5. <b>Testing Phase</b> <br>
+We gathered feedback through user testing and refined our solution based on user input.
+
+
+
+Please check out our project demonstration video in below link :
+
    
