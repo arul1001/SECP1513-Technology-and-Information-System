@@ -39,7 +39,8 @@
    👉 [Poster Industry Talk 3](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/389927d5028822f09f8d0d9664099ae100bade86/Group3_SECP1513_Industry_Talk3.pdf
 )
 7. <b> Industry Talk 4 : Generative AI in ICT-Transforming the Future of Innovation </b> </br>
-   Assignment:
+   Assignment: </br>
+   👉 [Academic Writing](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/389927d5028822f09f8d0d9664099ae100bade86/Group3_SECP1513_Industry_Talk3.pdf
 
 # 
 
