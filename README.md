@@ -40,7 +40,8 @@
 )
 7. <b> Industry Talk 4 : Generative AI in ICT-Transforming the Future of Innovation </b> </br>
    Assignment: </br>
-   👉 [Academic Writing-Industry Talk 4]
+   👉 [Academic Writing - Industry Talk 4](https://github.com/arul1001/SECP1513-Technology-and-Information-System/blob/212c563426ebb9a4c78cb5902a5d9c65720a90a3/Group3_Industry-Talk4-Academic_Writing_Generative_AI_In_ICT.pdf
+)
 
 # 
 
