@@ -117,16 +117,12 @@ Our Design Thinking Project Demonstration Video : 👉 [Design Thinking Project 
 #
 ### My Reflection on SECP1513-Technology and Information System Course
 
-<p align="justify"> 
-
-This course has given me a comprehensive introduction to Information Systems and Technology, both in theory and practice. Throughout the semester, I engaged in various assignments that deepened my understanding of core IT concepts. The jigsaw activity on computer hardware chapther helped me understand  to computer hardware and system in a collaborative way.
-
-I also explored different types of Operating System and their applications through open-ended assigment in Chapter 3-software, which enhanced my critical thinking and digital literacy.
+<p align="justify"> This course has given me a comprehensive introduction to Information Systems and Technology, both in theory and practice. Throughout the semester, I engaged in various assignments that deepened my understanding of core IT concepts. The jigsaw activity on computer hardware chapther helped me understand  to computer hardware and system in a collaborative way. I also explored different types of Operating System and their applications through open-ended assigment in Chapter 3-software, which enhanced my critical thinking and digital literacy.</p>
     
-The most impactful part of the course was the series of industry talks, where I created posters, participated as a presenter, and gained real insights into the ICT job market, required industry skills, managing burnout in tech, and the future of Generative AI. These sessions helped me connect classroom knowledge with real-world applications.
+<p align="justify"> The most impactful part of the course was the series of industry talks, where I created posters, participated as a presenter, and gained real insights into the ICT job market, required industry skills, managing burnout in tech, and the future of Generative AI. These sessions helped me connect classroom knowledge with real-world applications. </p>
 
-Finally, the Design Thinking project allowed me to apply what I learned by developing an AI-based solution for personal finance management. This experience strengthened my problem-solving, teamwork, and creative thinking skills.
+<p align="justify"> Finally, the Design Thinking project allowed me to apply what I learned by developing an AI-based solution for personal finance management. This experience strengthened my problem-solving, teamwork, and creative thinking skills.</p>
 
-Overall, the course helped me better understand the IT field and inspired me to explore career opportunities in the tech industry. </p>
+<p align="justify"> Overall, the course helped me better understand the IT field and inspired me to explore career opportunities in the tech industry. </p>
 
 #
